@@ -27,6 +27,7 @@ public:
         country = s;
     }
 };
+
 // Dervied Class or Child class of Cricketer class
 class Batter : public Cricketer, public Player
 {
